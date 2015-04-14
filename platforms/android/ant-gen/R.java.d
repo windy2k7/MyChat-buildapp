@@ -1,0 +1,23 @@
+C:\Users\MineNgo\MyChat\platforms\android\ant-gen\com\ionicframework\ionicfirebase121384\R.java \
+ : C:\Users\MineNgo\MyChat\platforms\android\res\drawable\icon.png \
+C:\Users\MineNgo\MyChat\platforms\android\res\drawable-hdpi\icon.png \
+C:\Users\MineNgo\MyChat\platforms\android\res\drawable-land-hdpi\screen.png \
+C:\Users\MineNgo\MyChat\platforms\android\res\drawable-land-ldpi\screen.png \
+C:\Users\MineNgo\MyChat\platforms\android\res\drawable-land-mdpi\screen.png \
+C:\Users\MineNgo\MyChat\platforms\android\res\drawable-land-xhdpi\screen.png \
+C:\Users\MineNgo\MyChat\platforms\android\res\drawable-land-xxhdpi\screen.png \
+C:\Users\MineNgo\MyChat\platforms\android\res\drawable-land-xxxhdpi\screen.png \
+C:\Users\MineNgo\MyChat\platforms\android\res\drawable-ldpi\icon.png \
+C:\Users\MineNgo\MyChat\platforms\android\res\drawable-mdpi\icon.png \
+C:\Users\MineNgo\MyChat\platforms\android\res\drawable-port-hdpi\screen.png \
+C:\Users\MineNgo\MyChat\platforms\android\res\drawable-port-ldpi\screen.png \
+C:\Users\MineNgo\MyChat\platforms\android\res\drawable-port-mdpi\screen.png \
+C:\Users\MineNgo\MyChat\platforms\android\res\drawable-port-xhdpi\screen.png \
+C:\Users\MineNgo\MyChat\platforms\android\res\drawable-port-xxhdpi\screen.png \
+C:\Users\MineNgo\MyChat\platforms\android\res\drawable-port-xxxhdpi\screen.png \
+C:\Users\MineNgo\MyChat\platforms\android\res\drawable-xhdpi\icon.png \
+C:\Users\MineNgo\MyChat\platforms\android\res\drawable-xxhdpi\icon.png \
+C:\Users\MineNgo\MyChat\platforms\android\res\drawable-xxxhdpi\icon.png \
+C:\Users\MineNgo\MyChat\platforms\android\res\values\strings.xml \
+C:\Users\MineNgo\MyChat\platforms\android\res\xml\config.xml \
+C:\Users\MineNgo\MyChat\platforms\android\ant-build\AndroidManifest.xml \
